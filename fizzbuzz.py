@@ -3,4 +3,4 @@ for j in range(1,16+1):
         print('fizz'*(j%3==0)+'buzz'*(j%5==0))
     else:
         print(f'{j}')
-print('It works')
+print('It work1s')
